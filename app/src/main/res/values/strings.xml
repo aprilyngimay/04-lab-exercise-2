@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="button1">BUTTON 1</string>
+    <string name="button2">BUTTON 2</string>
+    <string name="button3">BUTTON 3</string>
+    <string name="button4">BUTTON 4</string>
+    <string name="button5">BUTTON 5</string>
+    <string name="button6">BUTTON 6</string>
+    <string name="button7">BUTTON 7</string>
+    <string name="button8">BUTTON 8</string>
+    <string name="button9">BUTTON 9</string>
+    <string name="button10">BUTTON 10</string>
+    <string name="button11">BUTTON 11</string>
+    <string name="button12">BUTTON 12</string>
+    <string name="button13">BUTTON 13</string>
+    <string name="button14">BUTTON 14</string>
+    <string name="button15">BUTTON 15</string>
+</resources>
